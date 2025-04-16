@@ -191,9 +191,6 @@ python test_transcribe_all.py ./output/mp3_files/67f51aedf9578163d6d17090 ./outp
 
 本项目采用MIT许可证。
 
-## 作者
-
-[您的名称]
 
 ## 致谢
 
