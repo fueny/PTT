@@ -1,0 +1,50 @@
+# Python虚拟环境
+.venv/
+venv/
+env/
+ENV/
+
+# Python缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 日志文件
+*.log
+
+# 临时文件
+output/temp/*
+!output/temp/.gitkeep
+
+# 下载的MP3文件
+output/mp3_files/*
+!output/mp3_files/.gitkeep
+
+# 生成的转录文件
+output/transcripts/*
+!output/transcripts/.gitkeep
+
+# 分发和构建
+dist/
+build/
+*.egg-info/
+
+# IDE相关文件
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# 测试覆盖率
+.coverage
+htmlcov/
+.pytest_cache/
+
+
+# FFmpeg相关文件
+ffmpeg_bin/
+ffmpeg*/
+*.exe
